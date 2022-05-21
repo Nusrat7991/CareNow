@@ -13,7 +13,7 @@ body{
 
 h1,h2,h3,h4,h5,h6{
     font-family: 'Droid Sans', serif;
-    color:rgb(255, 255, 255);
+    color:rgb(18, 8, 95);
     font-weight: normal;
 }
 h1.title{
@@ -111,7 +111,7 @@ a.button.read-more:hover,button:hover, button:focus, .button:hover, .button:focu
 }
 
 .logo{
-        padding: 15px;
+    padding: 15px;
     display: inline-block;
 }
 
